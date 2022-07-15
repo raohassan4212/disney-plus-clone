@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { auth, provider } from "../config/firebase";
+// import { auth, provider } from "../config/firebase";
 
 const Header = () => {
   // const handleAuth = () => {
